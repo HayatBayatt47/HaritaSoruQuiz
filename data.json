@@ -1,0 +1,84 @@
+{
+    "bölgeler": [
+ 
+      {
+        "bolgeNo":1,
+        "isim": "İç Anadolu Bölgesi",
+        "en_önemli_gelir_kaynağı": "Sanayi",
+        "en_kalabalık_şehri": "Ankara",
+        "toplam_nüfus": "11,030,861",
+        "soru1":"iç anadolu bölgesinde en çok yetiştirilen tarım ürünü",
+        "cevap1":"buğday",
+        "soru2":"iç anadolu bölgesindeki başkent",
+        "cevap2":"ankara"
+      },
+      {
+        "bolgeNo":2,
+        "isim": "Ege Bölgesi",
+        "en_önemli_gelir_kaynağı": "Tarım",
+        "en_kalabalık_şehri": "İzmir",
+        "toplam_nüfus": "9,699,997",
+        "soru1":"ege bölgesinde en çok yetiştirilen tarım ürünü",
+        "cevap1":"üzüm",
+        "soru2":"ege bölgesinin bitki örtüsü",
+        "cevap2":"maki"
+      },
+      {
+        "bolgeNo":3,
+        "isim": "Marmara Bölgesi",
+        "en_önemli_gelir_kaynağı": "Sanayi",
+        "en_kalabalık_şehri": "İstanbul",
+        "toplam_nüfus": "23,753,135",
+        "soru1":"marmara bölgesinde en çok yetiştirilen tarım ürünü",
+        "cevap1":"buğday",
+        "soru2":"marmara bölgesinin bitki örtüsü",
+        "cevap2":"maki"
+      },
+      {
+        "bolgeNo":4,
+        "isim": "Karadeniz Bölgesi",
+        "en_önemli_gelir_kaynağı": "Tarım",
+        "en_kalabalık_şehri": "Samsun",
+        "toplam_nüfus": "8,658,436",
+        "soru1":"karadeniz bölgesinde en çok yetiştirilen tarım ürünü",
+        "cevap1":"çay",
+        "soru2":"karadeniz bölgesinin bitki örtüsü",
+        "cevap2":"orman"
+      },
+      {
+        "bolgeNo":5,
+        "isim": "Doğu Anadolu Bölgesi",
+        "en_önemli_gelir_kaynağı": "Tarım",
+        "en_kalabalık_şehri": "Erzurum",
+        "toplam_nüfus": "7,002,520",
+        "soru1":"doğu anadolu bölgesinde en çok yetiştirilen tarım ürünü",
+        "cevap1":"buğday",
+        "soru2":"doğu anadolu bölgesinin bitki örtüsü",
+        "cevap2":"bozkır"
+      },
+      {
+        "bolgeNo":6,
+        "isim": "Güneydoğu Anadolu Bölgesi",
+        "en_önemli_gelir_kaynağı": "Tarım",
+        "en_kalabalık_şehri": "Diyarbakır",
+        "toplam_nüfus": "7,018,508",
+        "soru1":"güneydoğu anadolu bölgesinde en çok yetiştirilen tarım ürünü",
+        "cevap1":"üzüm",
+        "soru2":"güneydoğu anadolu bölgesinin bitki örtüsü",
+        "cevap2":"bozkır"
+      },
+      {
+        "bolgeNo":7,
+        "isim": "Akdeniz Bölgesi",
+        "en_önemli_gelir_kaynağı": "Turizm",
+        "en_kalabalık_şehri": "Antalya",
+        "toplam_nüfus": "6,261,978",
+        "soru1":"akdeniz bölgesinde en çok yetiştirilen tarım ürünü",
+        "cevap1":"pamuk",
+        "soru2":"akdeniz bölgesinde en çok yetiştirilen tarım ürünü",
+        "cevap2":"maki"
+      }
+
+    ]
+  }
+  
